@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="59647" started-at="2020-02-11T22:17:42 IST" finished-at="2020-02-11T22:18:42 IST">
+  <suite name="Default suite" duration-ms="37009" started-at="2020-02-12T10:01:14Z" finished-at="2020-02-12T10:01:51Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="59647" started-at="2020-02-11T22:17:42 IST" finished-at="2020-02-11T22:18:42 IST">
+    <test name="Default test" duration-ms="37009" started-at="2020-02-12T10:01:14Z" finished-at="2020-02-12T10:01:51Z">
       <class name="com.auto.test.Web.TestLoginPage">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.auto.test.Web.TestLoginPage@d44fc21]" name="beforeSuite" is-config="true" duration-ms="2868" started-at="2020-02-11T22:17:39 IST" finished-at="2020-02-11T22:17:42 IST">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.auto.test.Web.TestLoginPage@754ba872]" name="beforeSuite" is-config="true" duration-ms="2219" started-at="2020-02-12T10:01:12Z" finished-at="2020-02-12T10:01:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.auto.test.Web.TestLoginPage@d44fc21]" name="beforeMethod" is-config="true" duration-ms="45044" started-at="2020-02-11T22:17:42 IST" finished-at="2020-02-11T22:18:27 IST">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.auto.test.Web.TestLoginPage@754ba872]" name="beforeMethod" is-config="true" duration-ms="25394" started-at="2020-02-12T10:01:14Z" finished-at="2020-02-12T10:01:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="TestToVerifyLoginAndLogoutFromTheApplication()[pri:0, instance:com.auto.test.Web.TestLoginPage@d44fc21]" name="TestToVerifyLoginAndLogoutFromTheApplication" duration-ms="13764" started-at="2020-02-11T22:18:27 IST" finished-at="2020-02-11T22:18:41 IST">
+        <test-method status="PASS" signature="TestToVerifyLoginAndLogoutFromTheApplication()[pri:0, instance:com.auto.test.Web.TestLoginPage@754ba872]" name="TestToVerifyLoginAndLogoutFromTheApplication" duration-ms="10241" started-at="2020-02-12T10:01:39Z" finished-at="2020-02-12T10:01:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestToVerifyLoginAndLogoutFromTheApplication -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.auto.test.Web.TestLoginPage@d44fc21]" name="afterMethod" is-config="true" duration-ms="773" started-at="2020-02-11T22:18:41 IST" finished-at="2020-02-11T22:18:42 IST">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.auto.test.Web.TestLoginPage@754ba872]" name="afterMethod" is-config="true" duration-ms="1322" started-at="2020-02-12T10:01:50Z" finished-at="2020-02-12T10:01:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.auto.test.Web.TestLoginPage@d44fc21]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-02-11T22:18:43 IST" finished-at="2020-02-11T22:18:43 IST">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.auto.test.Web.TestLoginPage@754ba872]" name="afterSuite" is-config="true" duration-ms="15" started-at="2020-02-12T10:01:54Z" finished-at="2020-02-12T10:01:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
       </class> <!-- com.auto.test.Web.TestLoginPage -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
